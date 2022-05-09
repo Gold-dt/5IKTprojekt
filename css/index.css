@@ -1,0 +1,33 @@
+body {
+    background-color: gray !important;
+}
+
+.q {
+    border-radius: 20px;
+    text-align: center;
+}
+
+.e {
+    border-radius: 20px;
+    text-align: center;
+}
+
+.r {
+    border-radius: 20px;
+    text-align: center;
+}
+
+.k {
+    background-color: rgb(138, 138, 138);
+    height: 400px;
+}
+
+.h {
+    background-color: rgb(80, 80, 80);
+    height: 400px;
+}
+
+.l {
+    background-color: rgb(44, 44, 44);
+    height: 400px;
+}
